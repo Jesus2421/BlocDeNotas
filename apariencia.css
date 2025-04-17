@@ -1,0 +1,33 @@
+.Estilo1 {font-family: Arial, Helvetica, sans-serif}
+.Standard{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+  }
+  #Cabecera{
+    background-color: #c7cdc9bc;
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+  }
+#cuerpo{
+    width: 100%;
+    height: 100%;
+    background-color: #ffffffbc;
+    text-align: display;
+    margin: 0 5px;
+    font-size: 20px;
+  }
+#mic-btn {
+  border: none;
+  background-color: #ffffff;
+  cursor: pointer; 
+  display: block;
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+#mic-btn:hover {
+  background-color: #cdcccc;
+}
